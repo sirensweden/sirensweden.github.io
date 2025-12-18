@@ -3,7 +3,13 @@
 
 <img src="img/siren-logo.jpg" alt="SiREN logo" width="100%" height="auto">
 
-*Network meeting coming up:* [**SiREN Signal 2026**](2026)
+<p id="blink"> *Network meeting coming up:* [**SiREN Signal 2026**](2026)</p>
+<script type="text/javascript">
+            var blink = document.getElementById('blink');
+            setInterval(function() {
+                blink.style.opacity = (blink.style.opacity == 0.5 ? 1 : 0.5);
+            }, 500);
+        </script>
 
 ## About
 
@@ -15,7 +21,7 @@
 
 ## Organisation
 
-Contact bjorn.regnell@cs.lth.se if you are interested in becoming a Node Representative or Industry Ambassador of SiREN. If you are a PhD student in Software Engineering with an interest in Requirements Engineering and wants to participate at SiREN Signal meetings then contact a Node Representative near you.
+Contact the steering committee chair bjorn.regnell@cs.lth.se if you are interested in becoming a Node Representative or Industry Ambassador of SiREN. If you are a PhD student in Software Engineering with an interest in Requirements Engineering and wants to participate at SiREN Signal meetings then contact a Node Representative near you, see list of NR below.
 
 
 ### Node Representatives
@@ -37,6 +43,7 @@ Contact bjorn.regnell@cs.lth.se if you are interested in becoming a Node Represe
 
 ### Chairs and Founders
 
+* Signal 2026 Program Co-chairs: [Senior Lecturer Luciana Provenzano](https://www.es.mdu.se/staff/2958-Luciana_Provenzano), [Dr Abbas Khan](https://www.ri.se/sv/person/abbas-khan), [Dr Julian Frattini](https://julianfrattini.github.io/)
 * Signal 2025 Program Co-chairs: [Docent Jennifer Horkoff](https://www.chalmers.se/en/persons/jenho/), [Professor Eric Knauss](https://www.chalmers.se/en/persons/knauss/), [Dr. Julian Frattini](https://julianfrattini.github.io/)
 * Signals 2014-2024 Program Chair: [Docent Richard Berntsson-Svensson](https://www.gu.se/en/about/find-staff/richardberntssonsvensson) 
 * Steering Committee Chair 2004-present, Co-founder, Signals 2004-2013 Program Chair: [Professor Björn Regnell](https://cs.lth.se/bjorn-regnell/)
