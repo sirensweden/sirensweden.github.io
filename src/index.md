@@ -55,12 +55,15 @@ Contact the steering committee chair bjorn.regnell@cs.lth.se if you are interest
 ### Governance
 
 1. Chairs and Node Representatives (NR) are voting members of the Steering Committee (SC).
-2. Founders (F) and Industry Ambassadors (IA) are invited as non-voting participants at SC meetings. 
-3. The SC decides about when and where the Signals (a.k.a. annual network meetings) take place.
-4. The SC decides who is SC Chair (SCC) and Signals Program Chairs (SPC).
-5. The SCC and SPC decide about who is invited and assigned as NR and IA.
-6. The mandate period length is decided upon appointment, normally at least 2 years. Appointees can be reelected.
-7. SC, F, NR, and IA nominates participants to Signals and SPC decides how many and whom to invite.
+1. Founders (F) and Industry Ambassadors (IA) are invited as non-voting participants at SC meetings. 
+1. The SC decides who is SC Chair (SCC) and Signals Program Chairs (SPC).
+1. The SC decides about who is invited and assigned as NR and IA.
+1. The mandate period length is decided upon appointment, normally at least 2 years. Appointees can be reelected.
+1. The SC decides about when and where the Signals (a.k.a. annual network meetings) take place.
+1. SC, F, NR, and IA nominate other participants to Signals and SPC decides how many and whom to invite.
+1. The SC decides about inclusion and exclusion of nodes.
+1. In the event of a tie, the SCC has the casting vote.
+1. The SC decides about these governance rules.
 
 ## Signals
 
