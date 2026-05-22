@@ -71,7 +71,7 @@ We have since 2003 held annual network meetings aka Signals, where we exchange i
 
 ### Coming Signal
 
-* *Coming Up:* [**SiREN Signal 2026, Västerås, Date TBD**](2026/index.html).
+* *Coming Up:* [**SiREN Signal 2026, Västerås, May 27-28**](2026/index.html).
 
 ### Past Signals
 
