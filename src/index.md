@@ -33,7 +33,7 @@ Contact the steering committee chair bjorn.regnell@cs.lth.se if you are interest
 * Malmö: [Docent Romina Spalazzese](https://mau.se/personer/romina.spalazzese/)
 * Västerås: [Senior Lecturer Luciana Provenzano](https://www.es.mdu.se/staff/2958-Luciana_Provenzano)
 * Stockholm: [Associate Senior Lecturer Georgios Koutsopoulos](https://www.su.se/profiles/geko9413-1.376428)
-* Örebro: [Senior Lecturer Panagiota Chatzipetrou](https://www.oru.se/english/employee/panagiota_chatzipetrou)
+* Örebro: [Docent Panagiota Chatzipetrou](https://www.oru.se/english/employee/panagiota_chatzipetrou)
 
 ### Industry Ambassadors
 
