@@ -3,7 +3,7 @@
 
 <img src="img/siren-logo.jpg" alt="SiREN logo" width="100%" height="auto">
 
-<p id="blink"> *Network meeting coming up:* [**SiREN Signal 2026**](2026)</p>
+<p id="blink"> *Latest network meeting:* [**SiREN Signal 2026**](2026)</p>
 <script type="text/javascript">
             var blink = document.getElementById('blink');
             setInterval(function() {
@@ -19,9 +19,10 @@
 
 * We also invite research-oriented software engineering **practitioners** from Swedish industry with a deep interest in RE.
 
+
 ## Organisation
 
-Contact the steering committee chair bjorn.regnell@cs.lth.se if you are interested in becoming a Node Representative or Industry Ambassador of SiREN. If you are a PhD student in Software Engineering with an interest in Requirements Engineering and wants to participate at SiREN Signal meetings then contact a Node Representative near you, see list of NR below.
+Contact the Steering Committee Chair bjorn.regnell@cs.lth.se if you are interested in becoming a Node Representative or Industry Ambassador of SiREN. If you are a PhD student in Software Engineering with an interest in Requirements Engineering and wants to participate at SiREN Signal meetings then contact a Node Representative near you, see list of NR below.
 
 
 ### Node Representatives
@@ -31,9 +32,11 @@ Contact the steering committee chair bjorn.regnell@cs.lth.se if you are interest
 * Linköping: [Docent Lena Buffoni](https://liu.se/medarbetare/olero90)
 * Lund: [Docent Markus Borg](https://mrksbrg.com/)
 * Malmö: [Docent Romina Spalazzese](https://mau.se/personer/romina.spalazzese/)
+* Uppsala: [Associate Professor Sofia Ouhbi](https://www.uu.se/en/contact-and-organisation/staff?query=N22-2414)
 * Västerås: [Senior Lecturer Luciana Provenzano](https://www.es.mdu.se/staff/2958-Luciana_Provenzano)
 * Stockholm: [Associate Senior Lecturer Georgios Koutsopoulos](https://www.su.se/profiles/geko9413-1.376428)
-* Örebro: [Senior Lecturer Panagiota Chatzipetrou](https://www.oru.se/english/employee/panagiota_chatzipetrou)
+* Örebro: [Docent Panagiota Chatzipetrou](https://www.oru.se/english/employee/panagiota_chatzipetrou)
+
 
 ### Industry Ambassadors
 
@@ -65,18 +68,23 @@ Contact the steering committee chair bjorn.regnell@cs.lth.se if you are interest
 1. In the event of a tie, the SCC has the casting vote.
 1. The SC decides about these governance rules.
 
+
 ## Signals
 
 We have since 2003 held annual network meetings aka Signals, where we exchange ideas and discuss any interesting topics related to requirements of software-based systems, including research, teaching and practice of RE. Signals are typically lunch to lunch at a university somewhere in Sweden. Everyone travel on their own budget and we aim at a minimal admin overhead. 
 
-### Coming Signal
 
-* *Coming Up:* [**SiREN Signal 2026, Västerås, May 27-28**](2026/index.html).
+### Coming Signals
+
+* 2027, Örebro
+* 2028, Malmö
+
 
 ### Past Signals
 
+* [2026, Västerås](2026/index.html) May 27-28
 * [2025, Göteborg](2025/index.html) June 2-3
-* [2024, Linköping](2024/index.html) May 13 -14
+* [2024, Linköping](2024/index.html) May 13-14
 * 2023, Göteborg 2-3 Nov, **20 YEARS ANNIVERSARY**
 * (2020-2022 *cancelled by Corona Pandemic*)
 * 2019, Lund, May 7-8
@@ -99,6 +107,7 @@ We have since 2003 held annual network meetings aka Signals, where we exchange i
 * 2003, Lund, October 22-23 
 * 2003, Lund, June 12-13 
 
+
 ## Forums
 
 If you are doing software engineering research with a requirements engineering angle you are recommended to publish at these core forums:
@@ -106,6 +115,7 @@ If you are doing software engineering research with a requirements engineering a
 * [**REJ**](https://link.springer.com/journal/766): Requirements Engineering, *journal*: (Springer-Nature), a high-impact journal with good reputation. Several SiREN members are in the [REJ Editorial Board](https://link.springer.com/journal/766/editorial-board).
 * [**RE**](https://conf.researchr.org/series/RE): Requirements Engineering, *international conference*: (IEEE/ACM), a top-tier conference with focus on excellence.
 * [**REFSQ**](https://refsq.org): Requirements Engineering Foundation for Software Engineering, *international working conference* (Springer LNCS), invites on-going work and novel research, you hear it first at REFSQ!
+
 
 ## Contribute
 
