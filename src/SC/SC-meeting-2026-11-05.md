@@ -43,7 +43,7 @@
     - REFSQ2027: Mon 12 - Thu 15 *April* 2027 Basel, Switzerland
     - ICSE2027: 25 April - 1 *May* 2027 Dublin, Ireland
     - RE2027: Mon 23 - Fri 27 *August* 2027 Milan, Italy
-    - Swedish holidays: https://www.timeanddate.com/holidays/sweden/2027
+    - [Swedish holidays 2027](https://www.timeanddate.com/holidays/sweden/2027)
 
 ### 4. Brainstorming ideas for the program
 
