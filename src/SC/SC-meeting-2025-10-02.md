@@ -1,13 +1,15 @@
-## SiREN SC Meeting 2025-10-02 15:30-16:00 
+*Navigate to:* [SC Meetings](.), [SiREN main page](..), [Past signals](../#signals), [Governance](../#governance). 
 
-* Where: Zoom
+# SiREN SC Meeting 2025-10-02 15:30-16:00 
+
+* Where: Online
 
 ## Agenda and notes
 
-1. Decision proposal: Formally appoint proposed and willing Luciana, Abbas and Julian as PC Co-Chairs for Signal 2026. 
+### 1. Decision proposal: Formally appoint proposed and willing Luciana, Abbas and Julian as PC Co-Chairs for Signal 2026. 
   * Decision: YES by acclamation! 
 
-2. Good date proposals for Signal 2026, analysis of clashes with other events of the community. 
+### 2. Good date proposals for Signal 2026, analysis of clashes with other events of the community. 
   * AP: PC co-chairs + SC Chair make formal decision on dates offline. 
 
   Good dates:
@@ -23,7 +25,7 @@
     - perhaps Malmö? (or else perhaps Sthlm?) see where latest venue were on homepage
   * AP. PC co-chairs prepare announcement, reach out to node reps and se-sweden-email-list etc
 
-3. Ideas for the agenda of Signal 2026
+### 3. Ideas for the agenda of Signal 2026
 
   * hackaton, alstom hitachi etc come up with challenges for PhD stud to research
   * invite participants foused on specific RE subjects, domains in need of RE, 
@@ -38,7 +40,7 @@
   * open offer from MDU: to extend your stay to give open presentations for students/staff etc.
 
   
-4. Any other business (if time permits)
+### 4. Any other business (if time permits)
 
   - heads up: think about Signal 2027, prepare next venue proposal
 

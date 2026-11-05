@@ -3,7 +3,7 @@
 
 <img src="img/siren-logo.jpg" alt="SiREN logo" width="100%" height="auto">
 
-<p id="blink"> *Latest network meeting:* [**SiREN Signal 2026**](2026)</p>
+<p id="blink"> *Upcoming network meeting:* [**SiREN Signal 2027**](2027)</p>
 <script type="text/javascript">
             var blink = document.getElementById('blink');
             setInterval(function() {
@@ -46,9 +46,10 @@ Contact the Steering Committee Chair bjorn.regnell@cs.lth.se if you are interest
 
 ### Chairs and Founders
 
-* Signal 2026 Program Co-chairs: [Senior Lecturer Luciana Provenzano](https://www.es.mdu.se/staff/2958-Luciana_Provenzano), [Dr Abbas Khan](https://www.ri.se/sv/person/abbas-khan), [Dr Julian Frattini](https://julianfrattini.github.io/)
-* Signal 2025 Program Co-chairs: [Docent Jennifer Horkoff](https://www.chalmers.se/en/persons/jenho/), [Professor Eric Knauss](https://www.chalmers.se/en/persons/knauss/), [Dr. Julian Frattini](https://julianfrattini.github.io/)
-* Signals 2014-2024 Program Chair: [Docent Richard Berntsson-Svensson](https://www.gu.se/en/about/find-staff/richardberntssonsvensson) 
+* [Signal 2027](2027) Program Co-chairs: [Docent Panagiota Chatzipetrou](https://www.oru.se/english/employee/panagiota_chatzipetrou), [Dr Julian Frattini](https://julianfrattini.github.io/)
+* [Signal 2026](2026) Program Co-chairs: [Senior Lecturer Luciana Provenzano](https://www.es.mdu.se/staff/2958-Luciana_Provenzano), [Dr Abbas Khan](https://www.ri.se/sv/person/abbas-khan), [Dr Julian Frattini](https://julianfrattini.github.io/)
+* [Signal 2025](2025) Program Co-chairs: [Docent Jennifer Horkoff](https://www.chalmers.se/en/persons/jenho/), [Professor Eric Knauss](https://www.chalmers.se/en/persons/knauss/), [Dr. Julian Frattini](https://julianfrattini.github.io/)
+* [Signals 2014-2024](#signals) Program Chair: [Docent Richard Berntsson-Svensson](https://www.gu.se/en/about/find-staff/richardberntssonsvensson) 
 * Steering Committee Chair 2004-present, Co-founder, Signals 2004-2013 Program Chair: [Professor Björn Regnell](https://cs.lth.se/bjorn-regnell/)
 * Co-founder: [Professor Kristian Sandahl](https://liu.se/en/employee/krisa34)
 * Co-founder: [Professor Jürgen Börstler](https://www.bth.se/eng/staff/jurgen-borstler-jub/)
@@ -68,6 +69,7 @@ Contact the Steering Committee Chair bjorn.regnell@cs.lth.se if you are interest
 1. In the event of a tie, the SCC has the casting vote.
 1. The SC decides about these governance rules.
 
+See also [SC meeting notes](SC).
 
 ## Signals
 
@@ -76,7 +78,7 @@ We have since 2003 held annual network meetings aka Signals, where we exchange i
 
 ### Coming Signals
 
-* 2027, Örebro
+* [Signal 2027](2027), Örebro
 * 2028, Malmö
 
 
