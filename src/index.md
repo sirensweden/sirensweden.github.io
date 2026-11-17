@@ -42,7 +42,7 @@ Contact the Steering Committee Chair bjorn.regnell@cs.lth.se if you are interest
 
 * [Peter Sjöberg](https://www.linkedin.com/in/petersjoebergvaesteras/), Västerås, Senior Systems Engineer at Hitachi Energy
 * [Anders Ekman](https://www.linkedin.com/in/anders-ekman-271563/), Stockholm, CEO at Celeris Consulting 
-* [Abbas Kahn](https://www.ri.se/en/person/abbas-khan), Västerås, Senior researcher at RISE
+* [Abbas Khan](https://www.ri.se/en/person/abbas-khan), Västerås, Senior researcher at RISE
 
 
 ### Chairs and Founders
